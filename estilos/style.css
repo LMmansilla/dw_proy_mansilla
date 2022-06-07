@@ -133,7 +133,6 @@ nav ul li {
 
 .texto {
   text-align: center;
-  margin-top: 80px;
 }
 
 .imagen {
@@ -206,4 +205,10 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+/*  PAGINA COMO FUNCIONA  */
+
+.comofunciona {
+  display: flex;
 }

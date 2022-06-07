@@ -44,7 +44,7 @@ header {
 }
 
 .logoheader img {
-  height: 90%;
+  height: 6rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -127,12 +127,23 @@ nav ul li {
 
 /* INICIO SECTION */
 
+.subtitulo {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-align: center;
+}
+
 .contenido {
   display: flex;
 }
 
 .texto {
   text-align: center;
+}
+
+.textdescripcion {
+  display: flex;
+  align-items: center;
 }
 
 .imagen {
@@ -209,6 +220,12 @@ footer {
 
 /*  PAGINA COMO FUNCIONA  */
 
-.comofunciona {
+.comofuncionaimg {
+  width: 10rem;
+  border-radius: 1rem;
+}
+
+.comofuncionatexto {
   display: flex;
+  align-items: center;
 }
